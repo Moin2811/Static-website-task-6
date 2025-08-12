@@ -25,4 +25,4 @@ It contains a simple HTML, CSS, and JavaScript setup to showcase how a site can 
 3. Enable **GitHub Pages** in the repository settings.
 4. Access the live site via the provided GitHub Pages link.
 
-## 🔗 Live Demo
+## 🔗 Click here: https://moin2811.github.io/Static-website-with-git-pages-task-6/
