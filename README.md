@@ -1,7 +1,3 @@
-Here’s a concise, clear summary you can put in your **README.md** for this GitHub Pages static website task:
-
----
-
 # Static Website with GitHub Pages
 
 ## 📌 Project Overview
@@ -30,10 +26,3 @@ It contains a simple HTML, CSS, and JavaScript setup to showcase how a site can 
 4. Access the live site via the provided GitHub Pages link.
 
 ## 🔗 Live Demo
-
-[View Website](https://<your-username>.github.io/<repo-name>/)
-
----
-
-If you want, I can also make a **more beginner-friendly README** with screenshots of the steps and commands so it’s internship-ready.
-Do you want me to prepare that?
